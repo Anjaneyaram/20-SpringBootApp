@@ -12,6 +12,7 @@ public class Application {
 		//HIS-134 changes done
 
                  int a=20;
+                 int b=30;
 		context.close();
 	}
 
